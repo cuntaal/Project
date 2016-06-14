@@ -1,0 +1,3 @@
+INDEX VERSION 1.126
+D:\eclipse\workspace2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\227448549.index
+\my-app-web5\src\main\resources

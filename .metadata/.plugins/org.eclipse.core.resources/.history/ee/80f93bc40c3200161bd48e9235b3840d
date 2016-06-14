@@ -1,0 +1,23 @@
+class Base{
+    Base(int i){
+	System.out.println("base constructor");
+    }
+    Base(){
+    }
+}
+
+public class Lin extends Base{
+    public static void main(String argv[]){
+	Lin s= new Lin();
+	//One
+    }
+    Lin()
+    {
+	//Two
+    }
+
+    public void derived()
+    {
+	//Three
+    }
+}

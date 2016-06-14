@@ -1,0 +1,9 @@
+class Base {}
+class Sub extends Base {}
+class Sub2 extends Base {}
+public class Mine{
+    public static void main(String args[]){
+	Base b=new Base();
+	Sub s=(Sub) b;
+    }
+}

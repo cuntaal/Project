@@ -1,0 +1,14 @@
+public class MyPoint {
+public static void main (String [] args){
+
+  MyPoint start = new MyPoint();
+  MyPoint end = new MyPoint();
+  
+  stary.x= 100;
+  
+}
+  public String toString() {
+    return ("[" + x + "," + y + "]");
+  }
+}
+

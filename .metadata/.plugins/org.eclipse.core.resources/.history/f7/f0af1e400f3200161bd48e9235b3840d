@@ -1,0 +1,4 @@
+public class Lin {
+	public static void main(String argv[]){ }
+	/*Modifier at XX */static class MyInner {}
+	}

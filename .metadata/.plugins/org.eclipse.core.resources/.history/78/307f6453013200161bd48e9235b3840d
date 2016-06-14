@@ -1,0 +1,12 @@
+
+/*This is a comment */
+
+	public class Mine {
+	 public static void main(String argv[]){
+		 int i=1;
+		 int j=2;
+		 if(i==1|| j==2)
+		  System.out.println("OK");
+
+}
+	}

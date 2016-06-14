@@ -1,0 +1,9 @@
+
+public class Machin implements Info {
+  int id ;
+
+public Machine(int id) {
+	this.id = id;
+}
+ 
+}

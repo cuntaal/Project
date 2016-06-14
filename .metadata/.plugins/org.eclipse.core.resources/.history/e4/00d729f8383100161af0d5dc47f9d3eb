@@ -1,0 +1,18 @@
+package MyFirstSampleProject;
+
+import java.util.Scanner;
+
+public class Project {
+    public static void main(String[] args) {
+         
+        int value = 0;
+        
+        do{
+        	System.out.println("Value =" + value);
+        	value++;
+        }
+     
+        while(value < 10);
+        
+    }
+}

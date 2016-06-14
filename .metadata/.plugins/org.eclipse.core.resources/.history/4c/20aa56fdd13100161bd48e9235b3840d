@@ -1,0 +1,26 @@
+
+public class Rectangle extends Shape {
+
+	
+	private double width;
+	private double height;
+
+	
+	
+	
+public Rectangle(double width, double weight);
+	public double area() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public double circumference() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+	
+	
+	
+
+}

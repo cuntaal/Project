@@ -1,0 +1,9 @@
+
+public abstract class Shape {
+
+public abstract class area();
+public abstract class circumference();
+
+	}
+
+

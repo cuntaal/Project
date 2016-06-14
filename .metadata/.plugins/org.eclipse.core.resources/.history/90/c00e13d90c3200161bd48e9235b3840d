@@ -1,0 +1,16 @@
+public class Lin{
+	 public static void main(String argv[]){
+		Lin e=new Lin();
+ 	}
+
+	Lin(){
+		 String s="Java";
+		 String s2="java";
+		 if(s==s2) {
+			 System.out.println("Equal");
+			 }else
+			 {
+			 System.out.println("Not equal");
+			 } 
+}
+}
