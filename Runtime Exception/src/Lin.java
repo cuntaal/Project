@@ -1,4 +1,7 @@
-public class Lin {
-	public static void main(String argv[]){ }
-	/*Modifier at XX */public class MyInner {}
-	}
+
+	public class Lin {
+		  public static void main(String[] args) {
+		  Lin 	 = new Lin("Hello");
+		    hello.greet("World");
+		  }
+		}

@@ -1,0 +1,15 @@
+package factorial;
+
+import java.util.Scanner;
+
+public class App {
+  public static void main (String[]arg){
+	  int num;
+	  int cal;
+	  int fac;
+	  
+	  System.out.println("Enter Number Here:");
+      Scanner input = new Scanner(System.in);
+      num = input.nextInt();
+  }
+}

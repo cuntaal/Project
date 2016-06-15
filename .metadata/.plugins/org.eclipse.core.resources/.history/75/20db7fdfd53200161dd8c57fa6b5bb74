@@ -1,0 +1,20 @@
+package factorial;
+
+import java.util.Scanner;
+
+public class App {
+  public static void main (String[]arg){
+	  int num;
+	  int cal;
+	  int fac=1;
+	  
+	  System.out.println("Enter Number Here:");
+      Scanner input = new Scanner(System.in);
+      num = input.nextInt();
+      
+      for ( cal = 1 ; cal <= num ; cal++ )
+          fac = fac*cal;
+
+       System.out.println("Factorial of "+num+" is = "+fac);
+  }
+}

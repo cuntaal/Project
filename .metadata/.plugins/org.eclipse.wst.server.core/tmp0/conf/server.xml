@@ -126,7 +126,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log." suffix=".txt"/>
 
-      <Context docBase="D:\eclipse\workspace2\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="D:\eclipse\workspace2\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\my-app-web" path="/my-app-web" reloadable="true" source="org.eclipse.jst.j2ee.server:my-app-web"/><Context docBase="D:\eclipse\workspace2\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\my-app-web5" path="/my-app-web5" reloadable="true" source="org.eclipse.jst.j2ee.server:my-app-web5"/></Host>
+      <Context docBase="D:\eclipse\workspace2\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="D:\eclipse\workspace2\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\my-app-web" path="/my-app-web" reloadable="true" source="org.eclipse.jst.j2ee.server:my-app-web"/><Context docBase="D:\eclipse\workspace2\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\my-app-web5" path="/my-app-web5" reloadable="true" source="org.eclipse.jst.j2ee.server:my-app-web5"/><Context docBase="D:\eclipse\workspace2\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\HelloWorld" path="/HelloWorld" reloadable="true" source="org.eclipse.jst.j2ee.server:HelloWorld"/></Host>
     </Engine>
   </Service>
 </Server>

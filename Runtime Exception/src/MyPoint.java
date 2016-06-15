@@ -11,9 +11,8 @@ public static void main (String [] args){
   end.x=20;
   end.y=30;
   
-  System.out.println("Start point is " + start); 
-  System.out.println("Start point is " + end); 
-  
+		System.out.println("Start point is " + start);
+		System.out.println("Start point is " + end);
   
 MyPoint stray  = new MyPoint();
 stray=end;

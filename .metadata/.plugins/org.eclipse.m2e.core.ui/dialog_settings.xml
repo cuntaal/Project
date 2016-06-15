@@ -12,6 +12,8 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\eclipse\workspace2\Runtime Exception\src\Account.java"/>
+			<item value="D:\eclipse\workspace2\HelloWorld"/>
 			<item value="D:\eclipse\workspace2\my-app-web3"/>
 			<item value="D:\eclipse\workspace2"/>
 		</list>
@@ -27,6 +29,7 @@
 		<list key="groupId">
 		</list>
 		<list key="package">
+			<item value="foo"/>
 		</list>
 		<list key="artifactId">
 		</list>

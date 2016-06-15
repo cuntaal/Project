@@ -2,9 +2,14 @@
 /*This is a comment */
 package MyPackage;
 
-public class Class {
+abstract class MineBase {
+	 abstract void amethod();
+	 static int i;
+	}
+	public class Mine extends MineBase {
 	 public static void main(String argv[]){
-		 int anar[]=new int[5];
-		 System.out.println(anar[0]);
-		 }
-		}
+	 int[] ar=new int[5];
+	 for(i=0;i < ar.length;i++)
+	 System.out.println(ar[i]);
+	 }
+	}

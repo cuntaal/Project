@@ -1,9 +1,9 @@
 public class Ref{
-    private static int i = 0;
-	public static void main(String argv[]){
+    public static void main(String argv[]){
 	Ref r = new Ref();
 	r.amethod(r);
     }
+	private int i;
     public void amethod(Ref r){
 	int i=99;
 	multi(r);
